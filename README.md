@@ -14,7 +14,7 @@ This repository presents a **systematic analysis to determine the effect of cont
 * **3.0s Early Warning:** **Upper-body signals** enable stable predictive intent horizons up to **3.0 seconds prior to speech onset**.
 * **Intent-Driven Kinematics:** Proactively **turn-claiming** involves a **1.5s preparatory build-up** of motion diversity, whereas defending the floor (**floor-holding**) triggers an **explosive kinetic burst** right at the speech collision boundary.
 
-This work establishes asynchronous multimodal coordination as a core governing principle of proactive and naturalistic human-agent interaction[cite: 13, 18].
+This work establishes asynchronous multimodal coordination as a core governing principle of proactive and naturalistic human-agent interaction.
 
 
 ## Dataset
