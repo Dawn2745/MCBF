@@ -1,6 +1,6 @@
 # Before the Turn: Investigating Motion Cues Preceding Speech in Dyadic Interaction, INTERSPEECH 2026
 
-## 📌 Overview
+## Overview
 
 While traditional conversational AI models rely on reactive acoustic and linguistic boundaries, they inherently lag behind human intention. In face-to-face dialogues, interlocutors physically prepare for speech well before vocalization occurs. 
 
@@ -9,7 +9,7 @@ This repository presents a **systematic analysis to determine the effect of cont
 <p align="center">
   </p>
 
-### ✨ Key Findings
+### Key Findings
 * **Asynchronous Timelines:** Communicative intent operates on independent physical timelines across different body parts.
 * **3.0s Early Warning:** **Upper-body signals** enable stable predictive intent horizons up to **3.0 seconds prior to speech onset**.
 * **Intent-Driven Kinematics:** Proactively **turn-claiming** involves a **1.5s preparatory build-up** of motion diversity, whereas defending the floor (**floor-holding**) triggers an **explosive kinetic burst** right at the speech collision boundary.
