@@ -1,4 +1,4 @@
-# Before the Turn: Investigating Motion Cues Preceding Speech in Dyadic Interaction <--, INTERSPEECH 2026-->
+# Before the Turn: Investigating Motion Cues Preceding Speech in Dyadic Interaction <!--, INTERSPEECH 2026-->
 
 ## Overview
 
@@ -57,7 +57,7 @@ python training_part_4.py --ref_bvh InterAct_Public/Raw_Body_Motions_BVH/2023111
 
 ## Citation(preparing)
 If you find the code useful in your research or work, please consider citing our paper:
-<--```
+<!--```
 @inproceedings{,
   title={Before the Turn: Investigating Motion Cues Preceding Speech in Dyadic Interaction},
   author={Ying-Hsuan Huang, Woan-Shiuan Chien, Huan-Yu Chen and Chi-Chun Lee},
