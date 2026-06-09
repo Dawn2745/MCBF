@@ -38,5 +38,13 @@ The sample training code is like:
 python training_part_4.py --ref_bvh InterAct_Public/Raw_Body_Motions_BVH/20231119_001_052.bvh  --manifest manifest_shifted_tau_0.0.csv --baselines speaker_norm_6D_fps30_baselines.json
 ```
 
-## Citation
-If you find this code useful, please consider citing:
+## Citation(preparing)
+If you find the code useful in your research or work, please consider citing our paper:
+```
+@inproceedings{,
+  title={Before the Turn: Investigating Motion Cues Preceding Speech in Dyadic Interaction},
+  author={Ying-Hsuan Huang, Woan-Shiuan Chien, Huan-Yu Chen and Chi-Chun Lee},
+  booktitle={Proc. Interspeech 2026},
+  year={2026}
+}
+```
