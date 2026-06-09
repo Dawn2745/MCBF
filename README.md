@@ -1,5 +1,4 @@
-# Investigating Motion Cues Preceding Speech in Dyadic Interaction
-
+# Before the Turn: Investigating Motion Cues Preceding Speech in Dyadic Interaction, INTERSPEECH 2026
 
 The following corpora is required for our work
 - InterAct
@@ -20,23 +19,17 @@ cd MCBF/analysis
 python -r requirement.txt
 ```
 ###  Motion Onset Detection
-
+The trainig code is provided in the "train" directory.
 Remember to change `base_dir` to your directory.
+
 ```
 cd ../train
+python -r requirement.txt
 python run_exp_part_3.py
 ```
 
 ### Decision-Time
 
-The trainig code is provided in the "train" directory.
-
-
-```
-git clone https://github.com/russelsa/mm-vap
-cd MCBF/train
-python -r requirement.txt
-```
 Remember to change `base_dir` to your directory.
 
 The sample training code is like:
