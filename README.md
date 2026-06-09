@@ -2,19 +2,19 @@
 
 ## 📌 Overview
 
-[cite_start]While traditional conversational AI models rely on reactive acoustic and linguistic boundaries, they inherently lag behind human intention . [cite_start]In face-to-face dialogues, interlocutors physically prepare for speech well before vocalization occurs[cite: 22, 23]. 
+While traditional conversational AI models rely on reactive acoustic and linguistic boundaries, they inherently lag behind human intention. In face-to-face dialogues, interlocutors physically prepare for speech well before vocalization occurs. 
 
-[cite_start]This repository presents a **systematic analysis to determine the effect of continuous kinematics on predictive lead times**[cite: 10]. [cite_start]We evaluate a **Transformer architecture** on **InterAct 3D skeletal data** by systematically varying observation windows and predictive lead times across diverse, multi-case dyadic scenarios.
+This repository presents a **systematic analysis to determine the effect of continuous kinematics on predictive lead times**. We evaluate a **Transformer architecture** on **InterAct 3D skeletal data** by systematically varying observation windows and predictive lead times across diverse, multi-case dyadic scenarios.
 
 <p align="center">
   </p>
 
 ### ✨ Key Findings
-* [cite_start]**Asynchronous Timelines:** Communicative intent operates on independent physical timelines across different body parts.
-* [cite_start]**3.0s Early Warning:** **Upper-body signals** enable stable predictive intent horizons up to **3.0 seconds prior to speech onset**.
-* [cite_start]**Intent-Driven Kinematics:** Proactively **turn-claiming** involves a **1.5s preparatory build-up** of motion diversity, whereas defending the floor (**floor-holding**) triggers an **explosive kinetic burst** right at the speech collision boundary.
+* **Asynchronous Timelines:** Communicative intent operates on independent physical timelines across different body parts.
+* **3.0s Early Warning:** **Upper-body signals** enable stable predictive intent horizons up to **3.0 seconds prior to speech onset**.
+* **Intent-Driven Kinematics:** Proactively **turn-claiming** involves a **1.5s preparatory build-up** of motion diversity, whereas defending the floor (**floor-holding**) triggers an **explosive kinetic burst** right at the speech collision boundary.
 
-[cite_start]This work establishes asynchronous multimodal coordination as a core governing principle of proactive and naturalistic human-agent interaction[cite: 13, 18].
+This work establishes asynchronous multimodal coordination as a core governing principle of proactive and naturalistic human-agent interaction[cite: 13, 18].
 
 
 ## Dataset
