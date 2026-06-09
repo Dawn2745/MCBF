@@ -1,4 +1,4 @@
-# Before the Turn: Investigating Motion Cues Preceding Speech in Dyadic Interaction, INTERSPEECH 2026
+# Before the Turn: Investigating Motion Cues Preceding Speech in Dyadic Interaction %, INTERSPEECH 2026
 
 ## Overview
 
