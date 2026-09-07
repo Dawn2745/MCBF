@@ -25,8 +25,13 @@ Please download the [dataset](https://huggingface.co/datasets/leohocs/interact) 
 - raw bvh is in `InterAct_Public/Raw_Body_Motions_BVH`
 - raw audio is in `InterAct_Public/Raw_Audios_WAV`
 
-
-
+## Model
+Here is the [git code](https://github.com/PantoMatrix/PantoMatrix) of turn-taking prediction model.
+Please install the dependencies sequentially:
+```
+pip install -r pre-requirements.txt
+pip install -r requirements.txt
+```
 ## Running the sample code
 
 Create the conda environment and install the dependencies
@@ -42,7 +47,7 @@ Remember to change `base_dir` to your directory.
 
 ```
 cd ../train
-python -r requirement.txt
+pip install -r requirement.txt
 python run_exp_part_3.py
 ```
 
